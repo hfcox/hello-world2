@@ -1,5 +1,5 @@
 # hello-world2
-just another repository
+ another repository
 
 
 We are just testing our new edits to the file.
